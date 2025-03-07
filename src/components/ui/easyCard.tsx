@@ -16,7 +16,7 @@ const EasyCard: FC<EasyContent> = ({ title, image = "/default-image.png", desc, 
           src={image} 
           width={100} 
           height={100} 
-          alt="icons" 
+          alt="iconsssss" 
           className="object-contain max-w-full max-h-full" 
         />
       </div>
