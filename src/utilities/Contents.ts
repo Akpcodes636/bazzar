@@ -539,7 +539,7 @@ No calibration provider can possibly calibrate everything themselves. Therefore,
     We will send you their ISO/IEC 17025:2017 accreditation and scope of calibrations to review and approve.
     Calibration by our third party partner may be done at their facility or on-site at your facility if necessary.
     NSM handles all paperwork, documentation and billing so we are still your single source provider.
-    We will coordinate all necessary site visits and shipping arrangements to ensure that your equipment is calibrated quickly and correctly.
+    We will coordinate all necessary site visits and shipping arrangements to ensure that your equipments is calibrated quickly and correctly.
 
 `,
   },
